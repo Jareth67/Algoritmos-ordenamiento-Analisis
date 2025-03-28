@@ -86,10 +86,44 @@ Tamanio,Promedio(ns)
 La primera fila tiene los encabezados: Tamanio,Promedio(ns).
 
 Cada fila posterior muestra el tamaño y el tiempo promedio de las 1000 iteraciones en nanosegundos.
+## Archivos CSV de Resultados por Algoritmo
+
+Cada archivo contiene los **tiempos promedio de ejecución** para arreglos de tamaños entre 10 y 1000, evaluados en 1000 pruebas.
+
+- [📄 Inserción](./1_Insercion_Ordenamiento.csv)
+- [📄 Burbuja](./2_Burbuja_Ordenamiento.csv)
+- [📄 Selección](./3_Seleccion_Ordenamiento.csv)
+- [📄 Shell](./4_Shell_Ordenamiento.csv)
+- [📄 Mezcla (Merge Sort)](./5_Mezcla_Ordenamiento.csv)
+- [📄 Rápido (Quick Sort)](./6_Rapido_Ordenamiento.csv)
+- [📄 Montículos (Heap Sort)](./7_Monticulos_Ordenamiento.csv)
 
 
 
 5. Uso de los Datos y Graficación
+## Gráficas de Promedios por Algoritmo
+
+### 1) Inserción
+![Gráfica Inserción](./Grafica-Insercion.png)
+
+### 2) Burbuja
+![Gráfica Burbuja](./promedios-Burbuja.png)
+
+### 3) Selección
+![Gráfica Selección](./Promedios-SELECCION).png)
+
+### 4) Shell
+![Gráfica Shell](./Grafica-Shell.png)
+
+### 5) Mezcla (Merge Sort)
+![Gráfica Mezcla](./GraficaMezcla.png)
+
+### 6) Rápido (Quick Sort)
+![Gráfica Rápido](./Quick (Wrapper)(6))
+
+### 7) Montículos (Heap Sort)
+![Gráfica Montículos](./Screenshot 2025-03-27 232346.png)
+
 
 
 
